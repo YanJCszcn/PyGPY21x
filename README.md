@@ -10,9 +10,9 @@ In Windows CMD, run command: pip install python
 # How to use
 ### Use in Python
 Python  
-> > >from gpy21x import gpy21x  
-> > >g2 = gpy21x()  
-> > >g2.mdior(2)  
+\>>>from gpy21x import gpy21x  
+\>>>g2 = gpy21x()  
+\>>>g2.mdior(2)  
 read value: 0x67c9    
   
 ### Use in vscode + Jupyter
