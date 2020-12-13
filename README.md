@@ -20,11 +20,12 @@ Install vscode from microsoft web site.
 Run vscode  
 In File manu, Open Folder, to open the folder of cloned repository.  
 Open the .py file, vscode will automatically notify to install Python and a serial of tool including Jupyter. Install them.  
-Open the gpy211app.ipynb file, vscode will automatically notify to install IPyKernel. Install it.  
+Open the gpy211app.ipynb file, select a code cell and run it (shift + return), vscode will automatically notify to install IPyKernel. Install it.  
 Use shift + return to run cells in gpy211app.ipynb.  
+This is better because the scripts can be saved in the .ipynb file. Scripts can be run in seprated cells. Easy and affective.
   
 ### Use in Jupyter only
-It is recommended to run the application with Jupyter only install of with vscode + Jupyter. Because Jupyter alone can run as web server, user can run the application with web browser via network from remote site.  
+It is recommended to run the application with Jupyter only instead of with vscode + Jupyter. Because Jupyter alone can run as web server, user can run the application with web browser via network from remote site.  
 Please google how to install and use Jupyter.  
   
 
