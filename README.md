@@ -9,7 +9,7 @@ In Windows CMD, run command: pip install python
 
 # How to use
 ### Use in Python
-Python  
+In Windowns CMD run command: Python  
 \>>>from gpy21x import gpy21x  
 \>>>g2 = gpy21x()  
 \>>>g2.mdior(2)  
